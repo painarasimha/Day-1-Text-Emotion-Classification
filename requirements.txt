@@ -4,3 +4,4 @@ Keras
 Tensorflow
 Scikit-learn
 matplotlib
+seaborn
